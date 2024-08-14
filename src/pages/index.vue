@@ -3,6 +3,8 @@
     <h1 class="text-3xl font-bold underline">Hello world!</h1>
     {{ msg }}
     {{ now }}
+    <HelloWorld></HelloWorld>
+    <el-button type="warning">Warning</el-button>
   </div>
 </template>
 

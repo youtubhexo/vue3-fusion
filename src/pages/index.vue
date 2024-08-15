@@ -5,6 +5,7 @@
     {{ now }}
     <HelloWorld></HelloWorld>
     <el-button type="warning">Warning</el-button>
+    <span class="i-ic:baseline-share"></span>
   </div>
 </template>
 

@@ -6,6 +6,7 @@
     <HelloWorld></HelloWorld>
     <el-button type="warning">Warning</el-button>
     <span class="i-ic:baseline-share"></span>
+    你好呀，我们集成了pwa
   </div>
 </template>
 
